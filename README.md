@@ -1,7 +1,7 @@
 # housebets-submissions
 
 Public deliverables for Housebets Contest Labs entries & career applications.
-Maintained by [@kikibyte](https://t.me/kikibyte).
+Maintained by [@kikirekt](https://github.com/kikirekt).
 
 ## Contents
 
