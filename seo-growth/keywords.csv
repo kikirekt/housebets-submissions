@@ -1,0 +1,29 @@
+language,market,pillar,keyword,intent,monthly_volume,keyword_difficulty,target_url
+EN / Global,Brand,housebets,navigational,12100,32,/
+EN / Global,Brand,housebets login,navigational,8100,28,/login
+EN / Global,Brand,housebets bonus,commercial,5400,35,/promotions
+EN / Global,Brand,housebets promo code,commercial,4400,30,/promotions
+EN / Global,Brand,is housebets legit,informational,3600,25,/about/licensing-security
+EN / Global,Brand,housebets scam,reputation,1900,22,/about/licensing-security
+EN / Global,Brand,housebets withdrawal,support,2400,27,/guides/withdrawals
+EN / Global,Casino,crypto casino,commercial,74000,78,/casino
+EN / Global,Casino,bitcoin casino,commercial,60500,76,/casino/bitcoin
+EN / Global,Casino,provably fair casino,informational,6600,49,/provably-fair
+EN / Global,Casino,usdt casino,commercial,5400,58,/casino/usdt
+EN / Global,Sportsbook,crypto sportsbook,commercial,9900,61,/sports
+EN / Global,Sportsbook,bitcoin betting,commercial,12100,63,/sports/bitcoin
+EN / Global,Guides,crypto casino withdrawal time,informational,1900,29,/guides/withdrawals
+EN / Global,Guides,how to verify provably fair,informational,720,24,/guides/fairness
+PT-BR,Brand,housebets,navigational,1600,24,/pt-br/
+PT-BR,Casino,cassino cripto,commercial,8800,55,/pt-br/casino
+PT-BR,Sportsbook,casa de apostas cripto,commercial,4400,51,/pt-br/sports
+ES / LATAM,Brand,housebets iniciar sesion,navigational,1300,22,/es/login
+ES / LATAM,Casino,casino criptomonedas,commercial,12100,58,/es/casino
+DE / DACH,Brand,housebets bonus,commercial,720,27,/de/promotions
+DE / DACH,Casino,crypto casino,commercial,8100,62,/de/casino
+FR / France,Casino,casino crypto,commercial,5400,57,/fr/casino
+JA / Japan,Brand,housebets,navigational,880,20,/ja/
+KO / Korea,Casino,비트코인 카지노,commercial,3600,52,/ko/casino
+TR / Turkey,Sportsbook,kripto bahis,commercial,2900,46,/tr/sports
+ID / Indonesia,Casino,casino crypto,commercial,2400,44,/id/casino
+ID / Indonesia,Brand,housebets,navigational,300,18,/id/

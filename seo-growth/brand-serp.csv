@@ -1,0 +1,9 @@
+brand_query,threat,evidence_or_risk,action,expected_outcome
+housebets,Official site vs competitors,Affiliates may outrank official for navigational queries,Optimize official home; schema; brand mentions; internal links,Official home #1 for housebets
+housebets login,Phishing/lookalike domains,Clone sites target login traffic,Harden official login with security warnings; DMCA/takedown; GSC URL removals,Official login top 1-2; clones suppressed
+housebets bonus,Misleading affiliate claims,Third-party promo pages may show non-official terms,Publish canonical bonus page; affiliate outreach,Official bonus page becomes primary source
+housebets promo code,Coupon/affiliate farms,Affiliate pages can outrank official,Official promo-code page; FAQ schema; internal links,Official page top 3-5
+is housebets legit,Reputation/trust attack,Trustpilot/Casino Guru may appear,Publish licensing/security page; review responses; PR,Balanced SERP with official factual source
+housebets withdrawal,Support/trust,Complaints may rank,"Publish withdrawal guide with timings, KYC, fees, status-check",Official guide top 5
+housebets scam,Reputation,Negative SERP risk,Same as trust page + monitoring; escalate to Legal,Balanced SERP
+housebets provably fair,Competitive,Casino comparison pages may appear,Optimize provably-fair page; schema; internal links,Official provably-fair page top 3
