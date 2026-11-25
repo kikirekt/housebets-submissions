@@ -22,3 +22,6 @@ Maintained by [@kikirekt](https://github.com/kikirekt).
 
 ## License
 Content here is provided as application/contest deliverables. Reuse with attribution.
+
+## Maintainer
+- [@kikirekt](https://github.com/kikirekt) — contest applicant (SEO Growth, Support AI Engineer).
